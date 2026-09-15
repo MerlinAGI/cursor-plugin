@@ -1,0 +1,25 @@
+{
+  "name": "listen-labs",
+  "version": "1.0.1",
+  "description": "Connect Cursor to Listen Labs. Create, edit, launch, and analyze user-interview studies.",
+  "author": {
+    "name": "Listen Labs",
+    "email": "support@listenlabs.ai",
+    "url": "https://listenlabs.ai"
+  },
+  "homepage": "https://listenlabs.ai",
+  "repository": "https://github.com/MerlinAGI/cursor-plugin",
+  "keywords": [
+    "listen-labs",
+    "mcp",
+    "user-interviews",
+    "customer-research",
+    "insights"
+  ],
+  "logo": "logo.svg",
+  "mcpServers": {
+    "listen-labs": {
+      "url": "https://mcp.listenlabs.ai/mcp"
+    }
+  }
+}
